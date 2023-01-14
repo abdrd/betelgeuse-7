@@ -15,8 +15,7 @@ as follows:
 - Build projects:
   - An emulator for a NES, or Game Boy
   - A compiler for a more well-designed -compared to the toy language I am building a transpiler for- programming language.
-    The language will have a garbage collector, so I will learn about implementing one. That compiler will, at first, produce
-    -x86-64 assembly. I will link the final executable with a libc implementation statically. I think the executables will only
+    The language will have a garbage collector, so I will learn about implementing one. That compiler will, at first, produce x86-64 assembly. I will link the final executable with a libc implementation statically. I think the executables will only
     run on Linux systems at first (no Windows initially (maybe never)).
   - A project consisting of various microservices cooperating to provide some service (probably including binary files). 
     This will be written in Go, and using many external services such as database servers, cache servers, message queues, etc.
