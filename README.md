@@ -5,6 +5,5 @@ I am interested in programming languages, compilers, and back-end web technologi
 
 My current project now is a compiler for a general-purpose statically-typed garbage-collected language with pattern matching and generic programming. 
  
-Gists:
-
-hardlink.go: https://gist.github.com/betelgeuse-7/23934b0f250389d4a290014feac3d106
+Gists @
+https://gist.github.com/betelgeuse-7
