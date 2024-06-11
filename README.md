@@ -1,8 +1,10 @@
 Hello. <br><br>
-I am a software developer from Turkiye.
+I am a programmer from Turkiye.
 
-I am interested in programming languages, compilers and distributed systems.
+I like learning about compilers and distributed systems.
 
-My current project now is a compiler for a general-purpose statically-typed garbage-collected language with pattern matching and generic programming. 
+I also like discovering niche programming languages.
 
-Gists @ https://gist.github.com/betelgeuse-7
+I am working on a compiler for a general-purpose statically-typed garbage-collected language with pattern matching and generic programming.
+
+Check out my my gists @ https://gist.github.com/betelgeuse-7
