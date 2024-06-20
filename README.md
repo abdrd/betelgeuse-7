@@ -7,4 +7,4 @@ I also like discovering niche programming languages.
 
 I am working on a compiler for a general-purpose statically-typed garbage-collected language with pattern matching and generic programming.
 
-Check out my my gists @ https://gist.github.com/betelgeuse-7
+Check out my gists @ https://gist.github.com/betelgeuse-7
