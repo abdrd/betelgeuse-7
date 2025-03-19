@@ -5,7 +5,7 @@ I am working on a compiler.
 
 I am also interested in distributed systems.
 
-Gists are here: https://gist.github.com/betelgeuse-7
+Gists are here: https://gist.github.com/abdrd
 
-You can also check out my blog: https://betelgeuse-7.github.io/
+You can also check out my blog: https://abdrd.github.io/
 
